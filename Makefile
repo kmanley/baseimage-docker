@@ -1,4 +1,4 @@
-NAME = phusion/baseimage
+NAME = kmanley/baseimage
 VERSION = 0.9.6
 
 .PHONY: all build test tag_latest release ssh
